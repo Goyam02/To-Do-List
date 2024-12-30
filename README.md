@@ -53,11 +53,16 @@ add_task(): Adds a new task to the list.
 complete_task(): Marks a task as complete.
 delete_task(): Deletes a task from the list.
 main(): Main function to run the application.
-License
+```
+
+## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Goyam02/To-Do-List/blob/main/LICENSE) file for details.
 
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-Author
+## Contributing
+```sh
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+```
+## Author
+```sh
 GOYAM JAIN
